@@ -1,4 +1,5 @@
-<center> <img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/5f19e43b-8396-4b6d-b557-b76fa6f516b9" />
+<p style="text-align: center;"><img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/5f19e43b-8396-4b6d-b557-b76fa6f516b9" />.</p>
+
 
 
 
