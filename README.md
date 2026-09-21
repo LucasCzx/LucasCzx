@@ -1,3 +1,7 @@
+<img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/5f19e43b-8396-4b6d-b557-b76fa6f516b9" />
+
+
+
 <div align="center">
 
 <img src="assets/pixel-game.gif" alt="Pixel art hacker running through a retro game level" width="600">
