@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/76781e6a-7704-47c7-ba9e-09917bd79e13" />="Joguinho GIF">
+    <img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/76781e6a-7704-47c7-ba9e-09917bd79e13" />
 </div>
 
 
