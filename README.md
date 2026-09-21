@@ -1,14 +1,8 @@
-<div style="text-align: center;">
-    <img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/76781e6a-7704-47c7-ba9e-09917bd79e13" />
-</div>
-
-
-
-
-
 <div align="center">
 
-<img src="assets/pixel-game.gif" alt="Pixel art hacker running through a retro game level" width="600">
+<p align="center">
+  <img width="640" height="360" alt="pixel-game" src="https://github.com/user-attachments/assets/5dd6613f-8efa-4903-90f5-ef4ec9dc7128" />
+</p>
 
 # ☕ Hey, I'm Lucas Carlos
 
@@ -74,9 +68,9 @@ These are the topics that catch my attention the most:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
