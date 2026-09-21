@@ -14,9 +14,16 @@
 
 ## 👋 About Me
 
-I'm a **Web Development** student at **SENAC**, and my full focus is on **Cybersecurity**. That's the field I want to specialize in and build my career in: **Information Security**, especially **Red Team** and **Web Pentesting**.
+Hey there! 👋 I'm Lucas, a **Web Development** student at **SENAC**.
 
-Right now I'm building my foundation step by step, studying web development, programming, Linux and networking, because understanding how things work is the first step to securing them. I study a little every day and try to get better each time.
+I decided to put all my focus on **Cybersecurity**. My plan is to specialize in it and build a career in **Information Security**, especially in two areas that really caught my attention:
+
+- 🔴 **Red Team:** playing the role of the "attacker" (with permission, of course) to test how well a company's defenses hold up.
+- 🕸️ **Web Pentesting:** hunting for security flaws in websites and web applications so they can be fixed before someone with bad intentions finds them.
+
+You might be wondering: why start with web development? Simple: to test or protect a website, I first need to understand how it's built. That's why I'm learning HTML, CSS, Python, SQL, Linux and networking, one step at a time.
+
+I'm still early in this journey, but I study a little every day and learn as I go. 🚀
 
 ---
 
